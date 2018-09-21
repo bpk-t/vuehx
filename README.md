@@ -24,7 +24,6 @@ This product is alpha version.
 2. Install vuehx.
 
     ```
-    haxelib newrepo
     haxelib git vuehx https://github.com/DenkiYagi/vuehx.git
     ```
 
@@ -52,5 +51,3 @@ This product is alpha version.
 ```
 haxelib update
 ```
-
-
